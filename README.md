@@ -1,5 +1,5 @@
 <div align="left" style="position: relative;">
-<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="right" width="30%" style="margin: -20px 0 0 20px;">
+<img src="https://github.com/Uwedwa/magnet-to-torrent/blob/main/icon.svg" align="right" width="30%" style="margin: -50px 0 0 10px;">
 <h1>MAGNET-TO-TORRENT</h1>
 
 <p align="left">
