@@ -120,3 +120,4 @@ This tool is designed for legitimate use cases such as downloading legal torrent
 
 - [aria2](https://aria2.github.io/) for providing the core functionality for metadata extraction
 - [PyQt5](https://riverbankcomputing.com/software/pyqt/) for the GUI framework
+- [Readme-Ai](https://readme-ai.streamlit.app/) for README.md file
