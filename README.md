@@ -1,13 +1,17 @@
 <div align="left" style="position: relative;">
 <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" align="right" width="30%" style="margin: -20px 0 0 20px;">
 <h1>MAGNET-TO-TORRENT</h1>
-</p>
+
 <p align="left">
-	<img src="https://img.shields.io/github/license/Uwedwa/magnet-to-torrent?style=default&logo=opensourceinitiative&logoColor=white&color=0080ff" alt="license">
-	<img src="https://img.shields.io/github/last-commit/Uwedwa/magnet-to-torrent?style=default&logo=git&logoColor=white&color=0080ff" alt="last-commit">
-	<img src="https://img.shields.io/github/languages/top/Uwedwa/magnet-to-torrent?style=default&color=0080ff" alt="repo-top-language">
-	<img src="https://img.shields.io/github/languages/count/Uwedwa/magnet-to-torrent?style=default&color=0080ff" alt="repo-language-count">
+  <a href="https://github.com/Uwedwa/magnet-to-torrent/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Uwedwa/magnet-to-torrent?style=flat&logo=gnu&logoColor=white&color=0080ff" alt="license">
+  </a>
+  <img src="https://img.shields.io/github/last-commit/Uwedwa/magnet-to-torrent?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
+  <img src="https://img.shields.io/github/languages/top/Uwedwa/magnet-to-torrent?style=flat&color=0080ff" alt="repo-top-language">
+<!--  <img src="https://img.shields.io/github/languages/count/Uwedwa/magnet-to-torrent?style=flat&color=0080ff" alt="repo-language-count">-->
+  <img src="https://img.shields.io/github/repo-size/Uwedwa/magnet-to-torrent?style=flat&color=0080ff" alt="repo-size">
 </p>
+
 
 A simple, user-friendly desktop application that allows you to convert magnet links to .torrent files.
 
